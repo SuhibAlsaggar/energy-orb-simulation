@@ -1,0 +1,23 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore ASP.NET bin and obj folders
+bin/
+obj/
+
+# Ignore personal files
+*.user
+*.userosscache
+*.suo
+*.userdata
+*.rsuser
+*.swp
+
+# Ignore any other personal config or temporary files
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Ignore all files in the temp directory if it exists
+temp/
